@@ -1,0 +1,31 @@
+img{
+    width: 300px;
+    border: 15px solid black;
+    }
+ footer p{
+    background-color: rgb(238, 255, 0);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+body{
+    background-color: cornflowerblue;
+    font-family:'Courier New', Courier, monospace ;
+    font-size:15px ;
+}
+nav a{
+    text-decoration: none;
+    border: 5px double  rgb(238, 255, 0);
+    margin: 15px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+nav {
+    padding: 10px;
+
+}
+h1{
+    text-align: center;
+    background-color: #aed6f1;
+}
+.img{
+    text-align: center;
+}
